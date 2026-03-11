@@ -347,3 +347,17 @@ template {
 [hidden] {
   display: none;
 }
+
+
+/* Header.php */
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.headerImg{
+
+}
+p{
+  background-color: red;
+}

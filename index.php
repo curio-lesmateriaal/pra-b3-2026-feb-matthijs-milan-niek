@@ -9,8 +9,8 @@
 <body>
     
     <div class="container">
-
-
+        <?php require_once "components/header.php" ?>
+        <p>test</p>
     </div>
 
 </body>
