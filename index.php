@@ -2,7 +2,7 @@
 <html lang="nl">
 
 <head>
-    <title></title>
+    <title>Takenlijst</title>
     <?php require_once 'components/head.php'; ?>
 </head>
 
@@ -13,7 +13,7 @@
         <p>test</p>
         
     </div>
-
+    <?php require_once "components/footer.php" ?>
 </body>
 
 </html>

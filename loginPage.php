@@ -12,7 +12,7 @@
         <?php require_once "components/header.php" ?>
                 
     </div>
-
+    <?php require_once "components/footer.php" ?>
 </body>
 
 </html>
