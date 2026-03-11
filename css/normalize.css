@@ -353,11 +353,21 @@ template {
 .header{
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid;
+
 }
 
 .headerImg{
-
+  width: 10%;
 }
-p{
-  background-color: red;
+.headerA{
+  text-decoration: none;
+  color: rebeccapurple;
+  /* border: 1px red solid ; */
+  
+}
+.headerA:hover{
+  color: rgb(130, 168, 180);
+
 }

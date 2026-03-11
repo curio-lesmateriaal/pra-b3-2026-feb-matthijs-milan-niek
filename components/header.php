@@ -1,6 +1,6 @@
 <Header>
     <div class="header">
         <img class="headerImg" src="img/devLand.png" alt="">
-        <button>Logout</button>
+        <a class="headerA" href="<?php echo $base_url ?>/loginPage.php">Logout</a>
     </div>
 </Header>
