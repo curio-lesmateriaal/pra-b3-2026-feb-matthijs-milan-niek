@@ -12,8 +12,11 @@
         <?php require_once "components/header.php" ?>
         <p>test</p>
         
-    </div>
 
+
+
+        <?php require_once "components/footer.php" ?>
+    </div>
 </body>
 
 </html>

@@ -371,3 +371,27 @@ template {
   color: rgb(130, 168, 180);
 
 }
+
+/* loginPage.php */
+.loginImg{
+  margin-top: 15%;
+  width: 25%;
+}
+
+.loginImgBox{
+  text-align: center;
+}
+
+.form{
+  /* margin-top: 25%; */
+  text-align: center;
+}
+
+.formGroup{
+  margin-top: 5px;
+}
+
+.formSubmit{
+  margin-top: 10px;
+  text-decoration: none;
+}
